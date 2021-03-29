@@ -1,0 +1,116 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Quicksand', sans-serif ;
+}
+header {
+    padding: 3px;
+    margin: 0;
+    background-color: rgb(99, 99, 99);
+}
+.h2 {
+    font-size: 20px;
+    margin: 12px;
+}
+.h22 {
+    margin: 12px;
+    font-size: 35px;
+}
+.p1 {
+    position: relative;
+    margin-left: 200px;
+    margin-top: 30px;
+    padding: 0;
+    font-size: 22px;
+    top: 20px;
+}
+.box1 {
+    position: relative;
+    width: 25%;
+    font-size: 18px;
+    margin-left: 450px;
+    margin-bottom: 13px;
+    top: -8px;
+}
+.p2 {
+    position: relative;
+    margin-left: 233px;
+    font-size: 22px;
+    margin-top: 20px;
+    top: -10px;
+}
+.matkul {
+    position: relative;
+    cursor: pointer;
+    padding-bottom: 2px;
+    font-size: 18px;
+    width: 25%;
+    margin-left: 450px;
+    margin-bottom: 13px;
+    top: -38px;
+}
+.p3 {
+    position: relative;
+    margin-left: 260px;
+    font-size: 22px;
+    margin-top: 5px;
+    top: -30px;
+}
+.uts {
+    position: relative;
+    margin-left: 450px;
+    width: 10%;
+    font-size: 18px;
+    top: -57px;
+}
+.p4 {
+    position: relative;
+    font-size: 22px;
+    margin-left: 260px;
+    margin-top: 10px;
+    top: -43px;
+}
+.uas {
+    position: relative;
+    margin-left: 450px;
+    width: 10%;
+    font-size: 18px;
+    top: -70px;
+}
+.p5 {
+    position: relative;
+    font-size: 22px;
+    margin-left: 128px;
+    margin-top: 14px;
+    top: -60px;
+}
+.tgs {
+    position: relative;
+    margin-left: 450px;
+    width: 10%;
+    font-size: 18px;
+    top: -85px;
+}
+.simpan {
+    position: relative;
+    margin-left: 450px;
+    font-size: 15px;
+    top: -64px;
+    padding: 5px;
+    cursor: pointer;
+    color: honeydew;
+    background-color:  rgb(99, 99, 99);
+}
+.header {
+    background-color: rgb(182, 26, 65);
+    padding: 10px;
+}
+.head {
+    font-size: 37px;
+    text-align: center;
+    color: honeydew;
+}
+.table {
+    margin-top: 26px;
+    
+}
